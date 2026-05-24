@@ -57,6 +57,12 @@
       "category": "creative-media"
     },
     {
+      "name": "creative-brief",
+      "description": "Creates project briefs that align stakeholders before work starts by translating vague concepts into actionable documents for designers, developers, or AI agents.",
+      "source": "./creative-brief",
+      "category": "creative-media"
+    },
+    {
       "name": "image-enhancer",
       "description": "Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.",
       "source": "./image-enhancer",

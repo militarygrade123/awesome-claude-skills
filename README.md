@@ -120,6 +120,7 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 ### Creative & Media
 
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
+- [Creative Brief](./creative-brief/) - Creates project briefs that align stakeholders before work starts by translating vague concepts into actionable documents for designers, developers, or AI agents.
 - [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
 - [Slack GIF Creator](./slack-gif-creator/) - Creates animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.
 - [Theme Factory](./theme-factory/) - Applies professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages with 10 pre-set themes.
